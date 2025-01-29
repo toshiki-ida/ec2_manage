@@ -5,7 +5,7 @@ import Login from './components/Login';
 import EC2List from './components/EC2List';
 import Admin from './components/Admin';
 import Layout from './components/Layout';
-//test
+//tes
 
 const App = () => {
   const isAuthenticated = () => {
